@@ -30,7 +30,7 @@
   <div class="empty">
     <strong class="no-images"><?= imagesTranslation('nothingAdded') ?></strong>
     <span class="dragdrop-help"><?= imagesTranslation('help') ?></span>
-    <img class="tutorial" src="<?= url('assets/plugins/images/images/images.gif') ?>" />
+    <img class="tutorial" src="<?= url('site/plugins/images/assets/images/images.gif') ?>" />
   </div>
     
   <div class="imagesgrid-inner sortable">
